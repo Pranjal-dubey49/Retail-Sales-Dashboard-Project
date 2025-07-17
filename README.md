@@ -1,51 +1,51 @@
-# 🛍️ Retail Sales Dashboard Project
+# 🛒 Retail Sales Dashboard Project
 
-This project analyzes a retail company's sales data to uncover trends, regional performance, and product profitability using Python (EDA) and Excel/Power BI dashboard.
+This project analyzes a retail company's sales data to uncover trends, regional performance, and product profitability using Python (EDA) and Excel Dashboard.
 
 ---
 
-## 📊 Project Goals
+## 📊 Dashboard Preview
 
-- Analyze sales by region, category, sub-category
-- Find most and least profitable products
-- Identify monthly trends
-- Prepare for a business-ready dashboard
+### 1️⃣ Overall Layout
+![Dashboard Overview](dashboardoverviewpng)
+
+### 2️⃣ Monthly Sales Trend
+![Monthly Sales Chart](monthlysaleschartpng)
+
+### 3️⃣ Category-wise Sales
+![Category Sales](categorysalespng)
+
+### 4️⃣ Region-wise Profit
+![Region Profit](regionprofitpng)
+
+### 5️⃣ Top 5 Most Profitable Products
+![Top Products](topproductspng)
 
 ---
 
 ## 📁 Dataset
-
-**Source:** [Kaggle – Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
-- 9994 rows × 13 columns  
-- Contains: Sales, Profit, Category, Region, Date, etc.
+**Source:** Kaggle – Superstore Dataset  
+**Shape:** 9994 rows × 13 columns  
+**Columns:** Sales, Profit, Category, Region, Date, Ship Mode, etc.
 
 ---
 
-## 🛠 Tools Used
-
+## 🧰 Tools Used
 - Python (pandas, matplotlib, seaborn)
-- Google Colab (for code)
-- Excel / Power BI (dashboard - optional)
+- Jupyter Notebook / Google Colab (for EDA)
+- Excel (for dashboard)
 - GitHub (for version control)
 
 ---
 
 ## 📌 Key Insights
-
-- **Technology** category has highest sales
-- **West region** performs better in profit
-- **Standard Class** shipping dominates orders
-- Profits don’t always align with high sales
-
----
-
-## 📷 Screenshots
-
-_(Add dashboard screenshots here if you create it in Excel or Power BI)_
+- 💻 Technology category has the highest sales
+- 🌎 West region shows highest profitability
+- 📦 Standard Class shipping dominates orders
+- 💰 High sales ≠ High profits always
 
 ---
 
-## ✅ Status
-
-EDA: ✔️ Complete  
-Dashboard: 🔄 In progress (Excel or Power BI)  
+## ✅ Project Status
+- ✅ EDA: Complete  
+- 📊 Dashboard: Complete (Excel screenshots added)
